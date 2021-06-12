@@ -8,4 +8,4 @@ HTML, CSS, Bootstrap and JavaScript are used.
 
 The website contains homepage,donation page,about us and contactus page. The donation page contains a donate button which is linked with razorpay payment gateway. The invoice will be sent to the email on successful payment.
 
-https://kspooja.github.io/TSK-Payment-Gateway-Integration-Task/index.html
+OUTPUT- https://kspooja.github.io/TSK-Payment-Gateway-Integration-Task/index.html
